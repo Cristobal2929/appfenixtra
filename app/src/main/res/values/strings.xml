@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFenixtra</string>
+    <string name="start">Iniciar</string>
+    <string name="pause">Detener</string>
+    <string name="repeat">Repetir</string>
+    <string name="status_active">Detección activada</string>
+    <string name="status_paused">Detección pausada</string>
+    <string name="error_long_text">Texto demasiado largo (máx 500 caracteres)</string>
+    <string name="error_translation">Error al traducir</string>
+    <string name="error_no_translation">No hay traducción disponible</string>
+    <string name="placeholder_original">Texto original aparecerá aquí</string>
+    <string name="placeholder_translation">Traducción aparecerá aquí</string>
+</resources>
